@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "249466270601",
+    "project_id": "maktabflutterpush",
+    "storage_bucket": "maktabflutterpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249466270601:android:2ea9a2ec9070b45ee62758",
+        "android_client_info": {
+          "package_name": "uz.maktab.smarttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249466270601-sprg3l070sdetsm7vgek6vhmdd790lk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.maktab.smarttech",
+            "certificate_hash": "46778d76f6bb0dec0a41814d5d449e6b601fc1e9"
+          }
+        },
+        {
+          "client_id": "249466270601-1212me2ktkbucp1kpg7eq8vbijr9n6mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBKnpA0Gh_15pfB7rpdO8n3B0t9kV4HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249466270601-1212me2ktkbucp1kpg7eq8vbijr9n6mr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249466270601-aj06r2nich6nu290saim25rqhn9kmngu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.maktab.smarttech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
